@@ -4,7 +4,7 @@
 
   
 ## 🎯 Interests  
-- 🔹 Software development & scripting  
+- 🔹 Software development and scripting  
 - 🎮 Game programming (Lua, Python, JS)  
 - 🤖 Bots and automation
 
