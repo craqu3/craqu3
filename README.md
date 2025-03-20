@@ -6,7 +6,7 @@
 ## 🎯 Interests  
 - 🔹 Software development & scripting  
 - 🎮 Game programming (Lua, Python, JS)  
-- 🤖 Bots & automation
+- 🤖 Bots and automation
 
   ## 📚 Currently Learning  
 I'm currently improving my skills in **Python**, **Lua**, and **JavaScript**.  
