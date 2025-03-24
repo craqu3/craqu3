@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&hide_title=true&count_private=true
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=1,000000,FFFF00&text_color=000000&icon_color=FFFF00)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=000000&text_color=FFFF00&icon_color=FFFF00)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3)
