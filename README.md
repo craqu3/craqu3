@@ -31,6 +31,6 @@ https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&hide_
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=30,000000,FFFF00&text_color=FFFFFF&icon_color=FFFFFF)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3&layout=compact&theme=radical&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=craqu3)
