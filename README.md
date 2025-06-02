@@ -1,8 +1,11 @@
-<h1 style="text-align: center;" style="color: aqua;">👋Hi, I’m Gabriel Rocha, better known virtually as craqu3</h1>
+<h1 align="center">👋 Hi, I’m Gabriel Rocha, better known virtually as craqu3</h1>
 
-
+<p align="center">
+  🚀 CEO at <strong>Solvex</strong> — a startup that's just getting started
+  <img src="https://imgur.com/a/EZaYSMK" alt="SOLVEX LOGO">
+</p>
   
-## 🎯 Interests  
+<h2>🎯 Interests</h2>
 <div>
     <ul>
         <li>🔹 Software development and scripting </li>
@@ -10,32 +13,31 @@
         <li>🤖 Bots and automation</li>
     </ul>
 </div>
-- 🔹 Software development and scripting  
-- 🎮 Game programming
-- 🤖 Bots and automation
-
-## 📚 Currently Learning  
-- I'm currently improving my skills in **Python**, **Lua**, and **JavaScript**.  
 
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<h2>📚 Currently Learning </h2>
 
-## 📬 How to Reach Me  
-- 📨 Discord: **Soon...**  
-- 📧 Email: a.rochagabri@gmail.com 
-
-
-![Discord](https://img.shields.io/badge/discord-3670A0?style=for-the-badge&logo=discord&logoColor=%23FFFFFF)
-<!---
-craqu3/craqu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 🔨 Status
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA LOGO">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON LOGO">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT LOGO">
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C LOGO">
+<img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="ARDUINO LOGO">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML LOGO">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 LOGO">
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=30,000000,FFFF00&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFF00)
+<h2>📬 Contact</h2> 
+<ul>
+    <li>📨 Discord: **Soon...**</li>
+    <li>📧 Email: a.rochagabri@gmail.com </li>
+</ul>
+<a href=""><img src="https://img.shields.io/badge/discord-3670A0?style=for-the-badge&logo=discord&logoColor=%23FFFFFF" alt="DISCORD LOGO"></a>
+<a href="mailto:a.rochagabri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL LOGO"></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3&layout=compact&theme=dark&border_color=FFFF00)
+<h2>🔨 Status</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=30,000000,FFFF00&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFF00" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3&layout=compact&theme=dark&border_color=FFFF00" alt="">
 
