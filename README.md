@@ -1,9 +1,17 @@
-
 # 🤪 About-Me
-- 👋Hi, I’m Gabriel Rocha, better known virtually as craqu3
+<h1 style="text-align: center;">👋Hi, I’m Gabriel Rocha, better known virtually as craqu3</h1>
+
 
   
 ## 🎯 Interests  
+<div>
+    <ul>
+        <li>🔹 Software development and scripting </li>
+        <li>🎮 Game programming</li>
+        <li>🤖 Bots and automation</li>
+    </ul>
+
+</div>
 - 🔹 Software development and scripting  
 - 🎮 Game programming
 - 🤖 Bots and automation
