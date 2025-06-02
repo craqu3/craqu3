@@ -2,7 +2,7 @@
 
 <h2 align="center">
   🚀 CEO at <strong>Solvex</strong> — a startup that's just getting started
-  <img src="https://imgur.com/a/EZaYSMK" alt="SOLVEX LOGO">
+  <img src="https://i.imgur.com/JMMt3CT.png" alt="SOLVEX LOGO">
 </h2>
   
 <h3>🎯 Interests</h3>
