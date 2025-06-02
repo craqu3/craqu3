@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/JMMt3CT.png" alt="SOLVEX LOGO">
 </h2>
   
-<h3>🎯 Interests</h3>
+<h2>🎯 Interests</h2>
 <div>
     <ul>
         <li>🔹 Software development and scripting </li>
@@ -15,7 +15,7 @@
 </div>
 
 
-<h3>📚 Currently Learning </h3>
+<h2>📚 Currently Learning </h2>
 
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA LOGO"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON LOGO">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT LOGO">
@@ -26,7 +26,7 @@
 
 
 
-<h3>📬 Contact</h3> 
+<h2>📬 Contact</h2> 
 <ul>
     <li>📨 Discord: **Soon...**</li>
     <li>📧 Email: a.rochagabri@gmail.com </li>
@@ -35,7 +35,7 @@
 <a href="mailto:a.rochagabri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL LOGO"></a>
 
 
-<h3>🔨 Status</h3>
+<h2>🔨 Status</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=30,000000,FFFF00&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFF00" alt="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3&layout=compact&theme=dark&border_color=FFFF00" alt="">
