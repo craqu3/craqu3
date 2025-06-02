@@ -32,7 +32,7 @@
     <li>📧 Email: a.rochagabri@gmail.com </li>
 </ul>
 <a href=""><img src="https://img.shields.io/badge/discord-3670A0?style=for-the-badge&logo=discord&logoColor=%23FFFFFF" alt="DISCORD LOGO"></a>
-<a href="mailto:a.rochagabri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL LOGO"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=a.rochagabri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL LOGO"></a>
 
 
 <h2>🔨 Status</h2>
@@ -48,7 +48,7 @@
   </a>
 
 
-  <a href="mailto:solvex.pt@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=solvex.pt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Solvex">
   </a>
 </p>
