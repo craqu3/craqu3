@@ -28,7 +28,7 @@
 
 <h2>📬 Contact</h2> 
 <ul>
-    <li>📨 Discord: **Soon...**</li>
+    <li>📨 Discord: </strong>Soon...<strong></li>
     <li>📧 Email: a.rochagabri@gmail.com </li>
 </ul>
 <a href=""><img src="https://img.shields.io/badge/discord-3670A0?style=for-the-badge&logo=discord&logoColor=%23FFFFFF" alt="DISCORD LOGO"></a>
