@@ -36,9 +36,13 @@
 
 
 <h2>🔨 Status</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=craqu3&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" alt="">
+<img src="https://nirzak-streak-stats.vercel.app/?user=craqu3&theme=slateorange&hide_border=false" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
 
-<img src="https://github-readme-stats.vercel.app/api?username=craqu3&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=30,000000,FFFF00&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFF00" alt="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3&layout=compact&theme=dark&border_color=FFFF00" alt="">
+<h2>🏆 GitHub Troffies</h2>
+![](https://github-profile-trophy.vercel.app/?username=craqu3&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
 
 <h2>🏢 Solvex Contacts</h2>
 
@@ -52,3 +56,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Solvex">
   </a>
 </p>
+
+
