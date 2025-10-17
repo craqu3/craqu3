@@ -42,7 +42,7 @@
 
 <h2>🏆 GitHub Troffies</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craqu3&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
+<img src="https://github-profile-trophy.vercel.app/?username=craqu3&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="">
 
 <h2>🏢 Solvex Contacts</h2>
 
@@ -56,5 +56,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Solvex">
   </a>
 </p>
+
 
 
